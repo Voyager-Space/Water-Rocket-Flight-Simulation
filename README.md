@@ -56,11 +56,10 @@ Choose between:
 ## 🛠️ Installation & Setup
 
 ```
-bash'''
 git clone https://github.com/Voyager-Space/Water-Rocket-Flight-Simulation.git
 cd Water-Rocket-Flight-Simulation
-pip install numpy pandas matplotlib'''
-
+pip install numpy pandas matplotlib
+```
 
 Water volume from 300–1000 mL
 
