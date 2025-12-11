@@ -19,6 +19,7 @@ Via GUI you can set:
 - Bottle volume, nozzle diameter, rocket body diameter, empty mass, drag coefficient  
 - Wind speed  
 
+![Screenshot of the Dashboard](Dashboard.png)
 Constants are applied globally — convenient for comparing different bottle designs or atmospheric conditions.
 
 ### 🖥️ GUI Interface (Tkinter + Matplotlib)
@@ -39,6 +40,7 @@ Enter a **target distance (m)** ➝ brute‑force search over launch parameters:
 
 Automatically returns best configuration and displays trajectory.
 
+![Different Graphs](Graph.png)
 ### 🧪 High‑Accuracy Mode
 Choose between:  
 - **Normal mode** — original integrator (fast)  
